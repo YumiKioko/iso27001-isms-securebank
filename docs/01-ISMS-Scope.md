@@ -1,4 +1,5 @@
-1. ISMS Scope and Context
+ISMS Scope and Context
+
 Organization: SecureBank Finance
 Date: October 26, 2023
 
