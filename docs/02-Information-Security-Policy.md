@@ -35,6 +35,9 @@ To uphold these principles, SecureBank Finance mandates the following:
 
 1.  **Risk Management:** A systematic risk assessment and treatment process, following ISO 27005 guidelines, shall be maintained to identify and manage information security risks to an acceptable level.
 2.  **Compliance:** All personnel must comply with this policy, all supporting security policies and procedures, and all applicable legal, regulatory, and contractual requirements.
+
+This policy ensures the protection of information in compliance with all legal, regulatory, and contractual obligations, including but not limited to the General Data Protection Regulation (GDPR) and the Payment Card Industry Data Security Standard (PCI DSS).
+
 3.  **Roles and Responsibilities:** Roles and responsibilities for information security are defined and communicated. All individuals are accountable for their actions regarding information security.
 4.  **Awareness and Training:** All personnel shall receive appropriate awareness education and training to ensure they are competent to perform their information security duties.
 5.  **Incident Management:** All information security events and weaknesses must be reported and will be managed through a formal incident response process.

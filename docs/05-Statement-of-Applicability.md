@@ -52,7 +52,7 @@ This Statement of Applicability identifies the controls from ISO/IEC 27001:2022 
 | A.5.12.1 | Identity management | I | **Included.** Formal joiner-mover-leaver process managed by HR and IAM team. Unique user IDs for all personnel. |
 | A.5.12.2 | Access provisioning | I | **Included.** Access is granted based on formal requests approved by managers and data owners. |
 | **A.5.15** | **Access control** | | |
-| A.5.15.1 | Access control policy | I | **Included.** Defined in the `access-control-policy.md`. |
+| A.5.15.1 | Access control policy | I | **Included.** Defined in the `access-control-policy.md`. | This control also satisfies PCI DSS Req 3 and GDPR Art. 32.
 | A.5.15.2 | User access provisioning | I | **Included.** Follows a formal request and approval workflow. |
 | A.5.15.3 | Application access control | I | **Included.** Role-Based Access Control (RBAC) is implemented in critical applications (CBS, online banking). |
 | **A.5.16** | **Identity and access governance** | | |

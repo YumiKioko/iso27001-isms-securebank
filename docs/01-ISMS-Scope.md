@@ -9,6 +9,8 @@ SecureBank Finance operates within a complex environment shaped by internal capa
 
 *The key internal and external issues are summarized in the [Context Diagram](assets/context-of-organization.png.md).*
 
+The ISMS is designed to ensure and demonstrate compliance with the General Data Protection Regulation (GDPR) and the Payment Card Industry Data Security Standard (PCI DSS).
+
 # 1.1 Internal Issues
 Factor	Description	Implication for the ISMS
 Business Model	Provision of retail banking and investment services.	The ISMS must prioritize the protection of highly sensitive customer financial data.
