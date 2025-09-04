@@ -1,4 +1,5 @@
-3. Risk Treatment Plan
+Risk Treatment Plan
+
 For each unacceptable risk, we select a treatment option (Avoid, Modify, Share, Retain).
 
 Risk ID	Treatment Option	Selected Controls (from ISO 27002:2022)	Reason for Choice	Rationale for Exclusion (if applicable)

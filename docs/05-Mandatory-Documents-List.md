@@ -1,4 +1,5 @@
-5. List of Mandatory Documents & Records
+List of Mandatory Documents & Records
+
 This list is based on ISO 27001:2022 clauses. This repository contains templates/examples for most.
 
 Mandatory Documents (Policies, Plans, etc.)

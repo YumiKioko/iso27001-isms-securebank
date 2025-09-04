@@ -1,4 +1,5 @@
-2. Risk Assessment (ISO 27005 Process)
+Risk Assessment (ISO 27005 Process)
+
 Methodology: We use a 5x5 matrix based on Likelihood and Impact (1-5 scale).
 
 Risk Assessment Steps
