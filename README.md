@@ -1,24 +1,28 @@
-# iso27001-isms-securebank
-Documentation for the SecureBank Finance ISMS based on ISO 27001:2022
+# ISO 27001 ISMS for SecureBank Finance
 
-ISO 27001 Implementation for a Financial Institution (Example)
-This repository contains a fictional, yet comprehensive, example of an ISO 27001:2022 implementation for "SecureBank Finance," a mid-sized financial institution offering retail banking, investment services, and online banking.
+This repository contains the complete documentation for the Information Security Management System (ISMS) of **SecureBank Finance**, implemented in accordance with the ISO/IEC 27001:2022 standard.
 
-This example covers the full Plan-Do-Check-Act (PDCA) cycle, a risk assessment following ISO 27005, and addresses common financial sector risks.
+## 📁 Repository Structure
 
-Disclaimer
-This is an example for educational and illustrative purposes. It is not a substitute for professional consultation. The controls chosen are examples; a real implementation must be based on a thorough risk assessment tailored to the specific organization.
+*   `/docs` - Core ISMS documentation, following the PDCA cycle and ISO 27001 clauses.
+*   `/policies` - High-level security policies defining rules and requirements.
+*   `/procedures` - Detailed step-by-step instructions for operational processes.
+*   `/records` - Indexes, summaries, and examples of evidence demonstrating the ISMS in operation.
+*   `/assets` - Visual aids and diagrams supporting the documentation.
 
-Core Risks Addressed
-Phishing & Social Engineering Attacks leading to unauthorized access to customer accounts.
+## 🚀 Overview
 
-Cloud Service Provider (CSP) Compromise (e.g., IaaS/PaaS misconfiguration leading to data leakage).
+This ISMS is designed to address the high-risk environment of a financial institution, focusing on threats like:
+*   Phishing and social engineering
+*   Ransomware and malware
+*   Cloud security misconfigurations
+*   Insider threats
+*   Third-party vendor risks
 
-Insider Threat (malicious or accidental data exfiltration by employees).
+## 🔐 Disclaimer
 
-Third-Party Vendor Risk (e.g., a fintech partner with weak security causing a supply chain attack).
+This is a **fictional example** created for educational and demonstrative purposes. It is not affiliated with any real financial institution and should not be used as a substitute for professional security advice.
 
-Ransomware Attack encrypting critical financial systems and customer data.
+## 📄 License
 
-Repository Structure
-The implementation is documented across several files in the /docs, /policies, and /procedures directories. Start with the ISMS-Scope document to understand the context.
+This material is provided under the MIT License.

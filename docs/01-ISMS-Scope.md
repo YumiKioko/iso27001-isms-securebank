@@ -7,6 +7,8 @@ Approval Authority: Chief Information Security Officer (CISO)
 # 1.0 Context of the Organization
 SecureBank Finance operates within a complex environment shaped by internal capabilities and external pressures. Understanding this context is essential for establishing a relevant and effective ISMS.
 
+*The key internal and external issues are summarized in the [Context Diagram](assets/context-of-organization.png.md).*
+
 # 1.1 Internal Issues
 Factor	Description	Implication for the ISMS
 Business Model	Provision of retail banking and investment services.	The ISMS must prioritize the protection of highly sensitive customer financial data.

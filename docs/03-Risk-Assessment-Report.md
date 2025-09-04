@@ -18,6 +18,8 @@ Risk levels are categorized as follows:
 
 21-25: Very High
 
+*For a visual representation of the risk assessment, see the [Risk Matrix](assets/risk-matrix.png.md).*
+
 # 1.1 Impact Criteria
 Impact is assessed on a scale of 1 (Negligible) to 5 (Catastrophic), considering the following criteria:
 
