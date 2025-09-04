@@ -1,0 +1,5 @@
+Change_ID,Date_Submitted,Requested_By,System,Description,Change_Type,CAB_Approval_Status,Implementation_Date,Backout_Tested,Post_Implementation_Review_Status
+CHG-2023-0841,2023-10-10,John D.,Core Banking DB,"Apply critical Oracle security patch (CPUOct2023)","Normal","Approved - 2023-10-12",2023-10-15,Yes,Successful - No issues
+CHG-2023-0842,2023-10-11,Sarah L.,Firewall Cluster,"Update rule to block malicious IP range from TI feed","Normal","Approved - 2023-10-12",2023-10-12,No,Successful - Blocking confirmed
+CHG-2023-0843,2023-10-20,Mike T.,Online Banking Web Server,"Emergency patch for zero-day vulnerability in web framework","Emergency","Approved (Verbal) - 2023-10-20",2023-10-20,No,Scheduled for 2023-10-23
+CHG-2023-0844,2023-10-25,Anna P.,Active Directory,"Create user account for new Finance contractor","Standard","Pre-Approved",2023-10-25,N/A,N/A
