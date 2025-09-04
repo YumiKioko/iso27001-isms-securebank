@@ -1,0 +1,6 @@
+CAR_ID,Date_Raised,Raised_By,Source(Audit/Incident),Nonconformity_Description,Root_Cause,Action_Plan,Owner,Due_Date,Status,Date_Closed,Effectiveness_Check
+CAR-2023-001,2023-07-15,Internal Auditor,Internal Audit IS-2023-01,"Control A.8.1.1: User access reviews for the core banking system were 3 months overdue.","Process gap: No automated reminder for access review cycles.","1. Implement quarterly calendar reminders for asset owners.
+2. Develop a automated report from the IAM system to list accounts for review.",Head of IAM,2023-08-31,Closed,2023-09-05,"Verified in follow-up audit IS-2023-02: Reviews completed on time."
+CAR-2023-002,2023-09-01,CISO,Incident INC-2023-008,"A phishing email bypassed filters and led to a compromised user credential.","1. Email filter ruleset was not updated for a new phishing tactic.
+2. User did not report the phishing email.","1. Update and tune email filtering rules (IT).
+2. Launch a targeted phishing awareness campaign for the affected department (Security).",Security Analyst,2023-10-15,In Progress,,
