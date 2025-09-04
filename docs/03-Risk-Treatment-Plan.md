@@ -1,11 +1,11 @@
-Risk Treatment Plan
+# Risk Treatment Plan
 Document ID: DOC-RTP-001
 Version: 1.0
 Effective Date: October 26, 2023
 Related Documents: 02-Risk-Assessment-Report.md, 04-Statement-of-Applicability.md
 Approval Authority: Chief Information Security Officer (CISO)
 
-1.0 Introduction
+# 1.0 Introduction
 This document outlines the treatment plan for risks deemed unacceptable following the risk assessment process. The plan details the selected treatment options, associated controls, responsible parties, and timelines for implementation.
 
 The treatment of risk follows the following options:
@@ -18,7 +18,7 @@ Share: Transfer the risk to a third party (e.g., through insurance).
 
 Retain: Accept the risk based on informed management decision.
 
-2.0 Risk Treatment Plan
+# 2.0 Risk Treatment Plan
 The following table details the treatment plan for high and medium risks identified in the risk assessment report (02-Risk-Assessment-Report.md).
 
 Risk ID	Treatment Option	Selected Controls (ISO 27002:2022)	Treatment Plan & Implementation Details	Risk Owner	Target Date
@@ -52,8 +52,8 @@ A.9.2.1 Monitoring of supplier services
 A.8.12.1 DLP	1. Integrate a security assessment questionnaire into the vendor procurement process.
 2. Perform annual security reviews for critical vendors, requiring evidence of their compliance.
 3. Apply DLP policies to data shared with third parties to prevent further unauthorized sharing.	Head of Procurement	Q3 2024
-3.0 Justification for Selection & Exclusion
-3.1 Justification for Selected Controls
+# 3.0 Justification for Selection & Exclusion
+# 3.1 Justification for Selected Controls
 R-001: A combination of proactive intelligence, preventative policy, and detective DLP controls provides a defense-in-depth approach to cloud security, addressing the shared responsibility model.
 
 R-002: A multi-layered "People, Process, Technology" approach is chosen. Training reduces the likelihood, email filtering reduces the attack surface, and SoD reduces the impact if credentials are compromised.
@@ -64,15 +64,15 @@ R-004: The principle of least privilege (access management) and segregation of d
 
 R-005: The primary lever for managing third-party risk is contractual and based on assurance activities (assessments, audits). DLP provides a technical control to protect the data itself.
 
-3.2 Rationale for Exclusion of Controls
+# 3.2 Rationale for Exclusion of Controls
 Certain controls were considered but excluded for valid business reasons:
 
 Control A.8.11.1 (Data Masking): This control was considered for R-004 but was excluded for customer service representatives. They require access to full customer data to effectively resolve issues, verify identities, and provide service. Masking would impede their primary business function. The risk is instead treated by stricter access controls (A.8.1.1) and activity monitoring.
 
-4.0 Residual Risk
+# 4.0 Residual Risk
 Following the implementation of the above controls, each risk will be re-assessed to determine the residual risk level. This plan will be updated to reflect the new risk rating, and any residual risks that remain at a "High" level will be presented to management for formal acceptance.
 
-5.0 Review
+# 5.0 Review
 This Risk Treatment Plan is a living document. It will be reviewed and updated:
 
 Annually, as part of the management review cycle.
